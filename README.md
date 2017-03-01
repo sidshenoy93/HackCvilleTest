@@ -4,3 +4,4 @@ this is a test for merge conflict
 
 
 blah blah blah
+branch 1 merge
